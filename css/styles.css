@@ -70,6 +70,7 @@ font-size: 16px;
 line-height: 1.5;
 letter-spacing: 0.04em;
 color: #fff;
+cursor: pointer;
 }
 
 .order-btn:hover,
@@ -89,9 +90,11 @@ color: #fff;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
+.team {
+    background-color:#f4f4fd ;
+}
 .team-title {
     font-weight: 700;
     font-size: 36px;
@@ -112,7 +115,6 @@ color: #fff;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .portfolio-title {
@@ -135,7 +137,6 @@ color: #fff;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #434455;
 }
 
 .page-footer {
